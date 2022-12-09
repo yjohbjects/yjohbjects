@@ -1,6 +1,6 @@
 <h3>yjohbjects</h3>
 <div>
-  <a href="yjohbjects@gmail.com"><img src="https://img.shields.io/badge/yjohbjects@gmail.com-EA4335?&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:yjohbjects@gmail.com"><img src="https://img.shields.io/badge/yjohbjects@gmail.com-EA4335?&logo=Gmail&logoColor=white"/></a>
   <a href="https://twitter.com/yhohbjects"><img src="https://img.shields.io/badge/yjohbjects-1DA1F2?&logo=Twitter&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/yjohbjects-0A66C2?&logo=LinkedIn&logoColor=white"/></a>
 </div><br>
