@@ -19,4 +19,5 @@
 <div>
   <img src="https://img.shields.io/badge/visual studio code-007ACC?&logo=Visual-Studio-Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-F24E1E?&logo=Figma&logoColor=white"/>
 </div>
