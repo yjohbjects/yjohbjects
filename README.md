@@ -37,7 +37,7 @@
 
 ### Activities
 <div>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=yjohbjects&show_icons=true&theme=transparent">
+  <img height="155px" src="https://github-readme-stats.vercel.app/api?username=yjohbjects&show_icons=true&theme=transparent">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjohbjects&layout=compact&theme=transparent">
 </div>
 <p align="right">
